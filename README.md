@@ -1,2 +1,2 @@
 # VehiclesFleetProject
- Database app amangement of a vehicles factory
+ Database app management of a vehicles factory
